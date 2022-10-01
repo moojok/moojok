@@ -1,5 +1,3 @@
-<p align="center">
-  <img align="center" src="https://i.ibb.co/FnzDJZY/computalk.gif">
-  <h5 align="center">Welcome to My GitHub</h5>
-  <h6 align="center">have fun & try not to break anything</h6>
+<p align="center" width="100%">
+  <img src="https://www.gifcen.com/wp-content/uploads/2021/06/regular-show-gif-11.gif" width="100%" />
 </p>
